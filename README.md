@@ -1,5 +1,9 @@
 # RCP-ARSW-LAB03
 
+## Realizado por
+- David Alejandro Patacon Henao
+- Daniel Felipe Hueso Rueda
+
 ## Implementacion RPC
 Este laboratorio incluye una implementacion simple de RPC sobre sockets TCP.
 La idea central es separar la logica del negocio de los detalles de red:
